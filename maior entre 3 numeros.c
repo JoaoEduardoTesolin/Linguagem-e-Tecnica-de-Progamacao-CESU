@@ -1,8 +1,6 @@
 #include <stdio.h>
-#include <locale.h>
 
 int main(){
-	setlocale(LC_ALL, "Portuguese");
 	int numero1, numero2, numero3;
 	
 	printf("Entre com o valor de a\n");
